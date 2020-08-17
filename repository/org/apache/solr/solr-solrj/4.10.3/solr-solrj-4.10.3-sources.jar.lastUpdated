@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 12 22:54:32 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1594565672414
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.solr\:solr-solrj\:jar\:sources\:4.10.3 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

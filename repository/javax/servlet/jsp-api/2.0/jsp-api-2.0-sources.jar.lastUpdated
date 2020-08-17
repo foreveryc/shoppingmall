@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 04 11:46:39 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1593834399965
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.servlet\:jsp-api\:jar\:sources\:2.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

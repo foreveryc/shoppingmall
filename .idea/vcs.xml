@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generatorSqlmapCustom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pagehelper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-cart-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-content" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-content/ytao-content-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-content/ytao-content-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-item-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-manager-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-manager/ytao-manager-dao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-manager/ytao-manager-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-manager/ytao-manager-pojo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-manager/ytao-manager-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-order-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-order/ytao-order-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-order/ytao-order-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-portal-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-search/ytao-search-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ytao-search/ytao-search-service" vcs="Git" />
+  </component>
+</project>

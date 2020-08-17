@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 12 23:07:05 CST 2020
+solr-solrj-4.10.3.jar>central=
+solr-solrj-4.10.3-javadoc.jar>central=
+solr-solrj-4.10.3.pom>central=

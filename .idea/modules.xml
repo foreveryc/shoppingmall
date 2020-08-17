@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagehelper/pagehelper.iml" filepath="$PROJECT_DIR$/pagehelper/pagehelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-cart-web/ytao-cart-web.iml" filepath="$PROJECT_DIR$/ytao-cart-web/ytao-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-common/ytao-common.iml" filepath="$PROJECT_DIR$/ytao-common/ytao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-content/ytao-content.iml" filepath="$PROJECT_DIR$/ytao-content/ytao-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-content/ytao-content-interface/ytao-content-interface.iml" filepath="$PROJECT_DIR$/ytao-content/ytao-content-interface/ytao-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-content/ytao-content-service/ytao-content-service.iml" filepath="$PROJECT_DIR$/ytao-content/ytao-content-service/ytao-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-item-web/ytao-item-web.iml" filepath="$PROJECT_DIR$/ytao-item-web/ytao-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-manager/ytao-manager.iml" filepath="$PROJECT_DIR$/ytao-manager/ytao-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-manager/ytao-manager-dao/ytao-manager-dao.iml" filepath="$PROJECT_DIR$/ytao-manager/ytao-manager-dao/ytao-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-manager/ytao-manager-interface/ytao-manager-interface.iml" filepath="$PROJECT_DIR$/ytao-manager/ytao-manager-interface/ytao-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-manager/ytao-manager-pojo/ytao-manager-pojo.iml" filepath="$PROJECT_DIR$/ytao-manager/ytao-manager-pojo/ytao-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-manager/ytao-manager-service/ytao-manager-service.iml" filepath="$PROJECT_DIR$/ytao-manager/ytao-manager-service/ytao-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-manager-web/ytao-manager-web.iml" filepath="$PROJECT_DIR$/ytao-manager-web/ytao-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-order/ytao-order.iml" filepath="$PROJECT_DIR$/ytao-order/ytao-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-order/ytao-order-interface/ytao-order-interface.iml" filepath="$PROJECT_DIR$/ytao-order/ytao-order-interface/ytao-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-order/ytao-order-service/ytao-order-service.iml" filepath="$PROJECT_DIR$/ytao-order/ytao-order-service/ytao-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-order-web/ytao-order-web.iml" filepath="$PROJECT_DIR$/ytao-order-web/ytao-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-parent/ytao-parent.iml" filepath="$PROJECT_DIR$/ytao-parent/ytao-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-portal-web/ytao-portal-web.iml" filepath="$PROJECT_DIR$/ytao-portal-web/ytao-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-search/ytao-search.iml" filepath="$PROJECT_DIR$/ytao-search/ytao-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-search/ytao-search-interface/ytao-search-interface.iml" filepath="$PROJECT_DIR$/ytao-search/ytao-search-interface/ytao-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-search/ytao-search-service/ytao-search-service.iml" filepath="$PROJECT_DIR$/ytao-search/ytao-search-service/ytao-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-search-web/ytao-search-web.iml" filepath="$PROJECT_DIR$/ytao-search-web/ytao-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-sso/ytao-sso.iml" filepath="$PROJECT_DIR$/ytao-sso/ytao-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-sso/ytao-sso-interface/ytao-sso-interface.iml" filepath="$PROJECT_DIR$/ytao-sso/ytao-sso-interface/ytao-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-sso/ytao-sso-service/ytao-sso-service.iml" filepath="$PROJECT_DIR$/ytao-sso/ytao-sso-service/ytao-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytao-sso-web/ytao-sso-web.iml" filepath="$PROJECT_DIR$/ytao-sso-web/ytao-sso-web.iml" />
+    </modules>
+  </component>
+</project>
